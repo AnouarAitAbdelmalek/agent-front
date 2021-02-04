@@ -1,0 +1,21 @@
+.page-num {
+  text-align: center;
+  width: 60px !important;
+  height: 40px;
+  border: " 1px solid white";
+  color: "white";
+  text-align: "center";
+  font-weight: "bold";
+}
+
+.search-input {
+  width: 250px;
+}
+
+.formcontrol {
+  width: 200px;
+}
+
+body {
+  background-color: #707080;
+}
